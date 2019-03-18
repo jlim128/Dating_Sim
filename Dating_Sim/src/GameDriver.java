@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 
 public class GameDriver {
-	private ArrayList<File> ChartextFiles = new ArrayList<File> (Arrays.asList() );
+	private ArrayList<String> ChartextFiles = new ArrayList<String> ();
 	private Scanner input = new Scanner(System.in);
 	
 	public static void main(String[] args) {
