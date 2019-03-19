@@ -1,0 +1,26 @@
+Dialogue Before
+Choice 1
+Response 1
+1
+Choice 2
+Response 2
+2
+Choice 3
+Response 3
+3
+Choice 4
+Response 4
+4
+Dialogue Before 2
+Choice 1
+Response 1
+1
+Choice 2
+Response 2
+2
+Choice 3
+Response 3
+3
+Choice 4
+Response 4
+4
