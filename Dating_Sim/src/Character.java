@@ -11,8 +11,8 @@ public class Character {
 	private String name;
 	private int lovePoints = 0;
 	private String location;
-	private int checkPoint1;
-	private int checkPoint2;
+	private Checkpoint checkpoint1;
+	private Checkpoint checkpoint2;
 	
 	/**
 	 * Character constructor - initializes name, location and loads dialogue from the file
@@ -20,11 +20,11 @@ public class Character {
 	 * @param l - location
 	 * @param fileName - name of file with dialogue
 	 */
-	public Character(String n, String l, String fileName, int checkPoint) {
+	public Character(String n, String l, String fileName, Checkpoint c1, Checkpoint c2) {
 		name = n;
 		location = l;
-		checkPoint1 = checkPoint;
-		checkPoint2 = 3 * checkPoint1; //3 can be changed
+		checkpoint1 = c1;
+		checkpoint2 = c2; //3 can be changed
 		loadText(fileName);
 	}
 	
@@ -59,6 +59,15 @@ public class Character {
 	 */
 	public Dialogue getDialogue(int dialogueNum) {
 		return story.get(dialogueNum);
+	}
+	
+	public Checkpoint getCheckpoint(int cPNum) {
+		if(cPNum == 0) {
+			return checkpoint1;
+		}
+		else {
+			return checkpoint2;
+		}
 	}
 	
 	private void loadText(String fileName) {
