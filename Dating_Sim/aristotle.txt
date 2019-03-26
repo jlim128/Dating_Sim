@@ -1,13 +1,13 @@
-Initial Impression:  You walk into the library and see that a debate is going on.  A. is on stage absolutely destroying his opponent with his mad logic skills.  A. walks off stage, very clearly pleased with his performance.
-
-Storyline:  
-Choice:
+You walk into the library and see that a debate is going on.  Aris, who you know from a couple classes, is on stage.  You watch for a couple minutes as he absolutely destroys his opponent with his mad logic skills.  Aris walks off stage, very clearly pleased with his performance. You approach him and say:
 “Wow. Marvelous job!”
-A. “Thank you madam! You are too kind”
+Aris: “Thank you madam! You are too kind.”
+2
 “HIIIIIIIIIIII”
-A. “ umm… hi there”
+Aris: “ umm… hi there”
+-1
 “Sup dude.”
-A. ignores you
+Aris ignores you and keeps walking on.
+-3
 Leave (pick another place)
 
 You start to walk alongside him as you introduce yourself and he introduces himself.  You come to a point where you want to know more about him
