@@ -3,51 +3,70 @@ You walk into the library and see that a debate is going on.  Aris, who you know
 Aris: “Thank you madam! You are too kind.”
 2
 “HIIIIIIIIIIII”
-Aris: “ umm… hi there”
+Aris: “umm… Hi there.”
 -1
 “Sup dude.”
-Aris ignores you and keeps walking on.
+Aris ignores you and keeps walking on. Despite this,
 -3
 Leave (pick another place)
+You realize that debate is stupid, so you decide to walk out.
+-10000
 
-You start to walk alongside him as you introduce yourself and he introduces himself.  You come to a point where you want to know more about him
+You start to walk alongside him as you introduce yourself. You come to a point where you want to know more about him. What should you ask:
 
-Choice:
 “So what is your favorite color?”
-Gold, it just has that fantastic sheen
+Aris: "Gold, it just has that fantastic sheen."
+1
 “What do you enjoy doing?”
 A. goes off on a super long tangent about what enjoyment is to end up with going on super long tangents as his pleasure
+Aris: "Well you know, I believe that this pursuit of pleasure is the ultimate goal in life. Everything that we do, from work to talk to debate, is for this thing ... this happiness. Throughout life, we search ... explore for the things that bring us happiness. It may be defined, it may be ever changing. As for me right now, it seems that I really enjoy debate. The art of rhetoric is empowering; it gives me the strength to manipulate nad obtain any result I want.  Heh Heh...  It seems that I enjoy long tangents too, huh?
+2
 “So I heard you believe in geocentrism … “
-A. sputters and then absolutely denies it, affirming that he was always right
+Aris: "pshh... uhh... no. No. I never believed such heresy. I'm always right."
+-2
 “Do you always win these debates?”
-A. deadstares, “Yes, ALWAYS”
+Aris: “Yes, ALWAYS. ALWAYS!!!!”
+1
 
-As you’re walking alongside A., you notice that he’s heading towards a guy. What needs to be done?
+As you’re walking alongside Aris, you notice that he’s heading towards a guy. What needs to be done?
 Glare at the guy.
-The guy gets scared and runs away. A. notices this and starts to glare at you.
-Stare at the guy and ask , Como estassssss?
-The guy and A. stare at you, awestrucked.
-Ask A. who the guy is.
-A. responds, “Oh, it’s my mortal enemy, Dave. We actively chat a lot.
-Wave to the guy and say “Hail!”
-A. whispers in a low voice, ‘very medieval’
+Random Guy: "Ahhh! Stop glaring at me! You're too scary!"  He runs away. Aris: "Why did you do that?" Aris runs after that guy.  Unfortunately, you don't run the 2 mile in track, so you can't keep up.
+-500
+"Como estassssss?"
+Random Guy & Aris: "Umm... What?" 
+-1
+"Hey Aris, who is that?"
+Aris: “Oh, it’s my mortal enemy, Dave. We actively chat a lot."
+1
+You wave to the guy and say, “Hail!”
+Random Guy: “Hail.”
+2
 
-The guy, Dave(unlock if you ask for name), says “Hail.” then starts laughing hysterically and says “Retired debater to women persuader?! :P”
-“Wanna fuck with me?”
-A. adds ‘A little much, but you got the idea.’
-“I hope you realize that I confronted A. out of curiosity.”
-A. raises an eyebrow , ‘Wow.. you’re acting a lot different…’
-Glare at him
-A. looks at you, ‘Hey, no need to be hostile to fellow debaters.’
-Laugh it off and respond with “What do you mean?”
-A. adds ‘Ya, your conclusion about us is highly inaccurate, I would think you, Dave would come up with something a bit more creative.’
+Random Guy introduces himself as Dave. He looks at you, then starts laughing hysterically and says “Retired debater to women persuader?! :P (Yes, he says colon p)”
+“Wanna mess with me?”
+Aris: "A little much, but you got the idea."
+0
+“I hope you realize that I confronted Aris out of curiosity.”
+Aris raises an eyebrow, ‘Wow.. you’re acting a lot different…’
+-1
+Glare at him.
+A. looks at you, "Hey, no need to be hostile to fellow debaters."
+-1
+You laugh and respond, “What do you mean?”
+Aris: "Ya, your conclusion about us is highly inaccurate, I would think you, Dave would come up with something a bit more creative."
+1
 
-After conversing with Dave for a while, A. walks away. What do you do?
-Ask for Dave’s number
-Dave responds, ‘I don’t date easily influenced people.’
-Push Dave aside, and ask A. for his number
-A. shifts his eyes away, ‘Do you respond like that to every male?’
-Throw your card at A. and say, ‘Call me up the next debate!’
-A. waves his hand as he walks away, ‘I’ll hold you to it.’
-Slide your card into Dave’s pocket, then chase after A., and holler ‘WAIT!’
-Dave looks at you in disgust while A. looks at you with fear.
+You and Aris talk with Dave for a while, exchanging jokes and complaining about teachers. Both of them seem to really be warming up to you. Aris: "It's getting late. I should get going." Before he goes, what should you do?
+Ask for Dave’s number.
+Dave: "I don’t date easily influenced people."  
+-5000
+Push Dave aside, and ask Aris for his number.
+Aris shifts his eyes away, "Do you respond like that to every male?" He cautiously gives you his number, then walks off.
+-2
+Throw your card at Aris and say, "Call me up the next debate!"
+Aris waves his hand as he walks away, "I’ll hold you to it."
+2
+Slide your card into Dave’s pocket, then chase after Aris and holler "WAIT!"
+Dave looks at you in disgust while Aris looks at you with fear.
+Dave: "What are you doing?" He walks away in disgust. From you yelling, Aris starts running too.  Unfortunately, you don't run the 2 mile in track, so you can't keep up.  You are left, all alone ... with no date.
+-5000
