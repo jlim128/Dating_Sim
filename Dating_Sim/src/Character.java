@@ -83,6 +83,7 @@ public class Character {
 				in.nextLine();
 				Choice c4 = new Choice(in.nextLine(), in.nextLine(), in.nextInt());
 				in.nextLine();
+				in.nextLine();
 				story.add(new Dialogue(d, c1, c2, c3, c4));
 			}
 		}
