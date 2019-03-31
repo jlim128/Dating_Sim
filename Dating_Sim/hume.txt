@@ -1,21 +1,24 @@
-Initial Impression:  You tirely walk to the local park. You notice a young, handsome, buff man talking to your grandma. Response?
-
-Storyline:  
-Choice:
-Interrupt their conversation to say hi to him
-Grandma “Uh… hello? We were talking here!”
-Wait patiently for them to end before saying hi
-They end up talking for a couple hours before they stop
- Enter into the conversation naturally, ‘Oh hey granny! What happened to grandpa!’
-Grandma ‘Oh him? His name is Hume, and we were just talking about earthquakes.’
+You tiredly walk to the local park. You notice a young, handsome, buff man talking to your grandma. Response?
+Interrupt their conversation to say Hi to him
+Grandma: “Uh… hello? We were talking here!” New Guy: "Yeah. So rude."
+-2
+Wait patiently for them to end before saying Hi
+They end up talking for a couple hours. You wait... and wait... and wait... and wait... and wait... and wait... and wait... and wait.  You take a nap for thirty minutes and wake up to them still talking. They finally see you after 3 hours.  The boy introduces himself as Hubert.
+0
+"Oh hey Granny! What happened to Grandpa?"
+Grandma "Hmm... What did you sayyy? Are you talking about him? His name is Hubert, and we were just talking about earthquakes. Why don't you join?"
+1
 Push him aside to talk to your grandma (Choose another place)
+"Grandma!!!!!!!!!!" Grandma: "Ohh!!! Grandson!" The guy, obviously hurt, looks in disgust as he walks away. After talking with your grandma for a bit, you walk off, 
+-10000
 
-After observing H. and your grandma for a while, you start to get ancy.
-Pull out your AirPods and listen to ‘Stacy’s Mom’ by Fountains of Wayne
-Grandma looks at you, ‘Good thing you aren’t a teeny bopper H.’
-Take out your phone and start to record your grandma being a pleb
-H. starts to pose for the camera
-Say ‘Oh hey grandma! Who’s this male you’re talking to?’
+You start talking to Hubert and your grandma. Hubert: "You know speaking of earthquakes, I love forks.  Forks, Forks Forks. Especially the fork between truths." You start to get antsy. What do you do?
+Pull out your AirPods and listen to ‘Stacy’s Mom’ by Fountains of Wayne.
+Grandma looks at you, "Darn grandson with your new fancy ear ring. Good thing you aren’t a teeny bopper, Hubert." Hubert: "Yeah."
+-1
+Take out your phone and start to record your grandma.
+Hubert starts to pose for the camera 
+Say "Oh hey grandma! Who’s this male you’re talking to?"
 H. replies for her ‘Just a neighbor looking out for people!’
 Start to clear your throat ‘What’s going on here?’
 Grandma ignores you, ‘nothing much’
