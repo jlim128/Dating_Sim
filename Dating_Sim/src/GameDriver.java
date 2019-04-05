@@ -51,6 +51,7 @@ public class GameDriver {
 		int response = 0;
 		while(response ==0) {
 			try {
+				System.out.print("\nResponse BRO?: ");
 				response = input.nextInt();
 			
 			}catch(Exception e) {
@@ -67,7 +68,7 @@ public class GameDriver {
 		int response;
 		Dialogue currentDia;
 		int points = 0;
-		for(int x = 0;x<currentChar.getDialogueStorySize(); x++){ //not here
+		for(int x = 0;x<currentChar.getStoryLength(); x++){ 
 			currentDia = currentChar.getDialogue(x);
 			currentDia.getChoices();
 			response = reply();
