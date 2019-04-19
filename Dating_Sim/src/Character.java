@@ -14,17 +14,13 @@ public class Character {
 	private Checkpoint checkpoint1;
 	private Checkpoint checkpoint2;
 	
+	
 	/**
 	 * Character constructor - initializes name, location and loads dialogue from the file
-	 * @param n - name
-	 * @param l - location
 	 * @param fileName - name of file with dialogue
 	 */
-	public Character(String n, String l, String fileName, Checkpoint c1, Checkpoint c2) {
-		name = n;
-		location = l;
-		checkpoint1 = c1;
-		checkpoint2 = c2; //3 can be changed
+	public Character(String fileName) {
+		name = fileName.substring(0, fileName.length() -5);
 		loadText(fileName);
 	}
 	
@@ -45,11 +41,18 @@ public class Character {
 	}
 	
 	/**
-	 * Method to get current love points
-	 * @return current love points of character
+	 * Method to get love points needed for them to say YES
+	 * @return final critica love points of character
 	 */
 	public int getLovePoints() {
 		return lovePoints;
+	}
+	
+	/**
+	 * Getter method that returns the size of the story ArrayList<Dialogue>
+	 */
+	public int getStoryLength(){
+		return story.size();
 	}
 	
 	/**
@@ -73,6 +76,10 @@ public class Character {
 	private void loadText(String fileName) {
 		try {
 			Scanner in = new Scanner(new File(fileName));
+			location = in.nextLine();
+			in.nextLine();
+			lovePoints = in.nextInt();
+			in.nextLine();
 			while(in.hasNext()) {
 				String d = in.nextLine();
 				Choice c1 = new Choice(in.nextLine(), in.nextLine(), in.nextInt());
