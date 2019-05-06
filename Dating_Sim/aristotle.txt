@@ -10,16 +10,16 @@ Aris ignores you and keeps walking on. Despite this,
 -3
 Leave (pick another place)
 You realize that debate is stupid, so you decide to walk out.
--10000
+-1000
 
 You start to walk alongside him as you introduce yourself. You come to a point where you want to know more about him. What should you ask:
 “So what is your favorite color?”
 Aris: "Gold, it just has that fantastic sheen."
 1
 “What do you enjoy doing?”
-Aris: "Well you know, I believe that this pursuit of pleasure is the ultimate goal in life. Everything that we do, from work to talk to debate, is for this thing ... this happiness. Throughout life, we search ... explore for the things that bring us happiness. It may be defined, it may be ever changing. As for me right now, it seems that I really enjoy debate. The art of rhetoric is empowering; it gives me the strength to manipulate nad obtain any result I want.  Heh Heh...  It seems that I enjoy long tangents too, huh?
+Aris: "Well you know, I believe that this pursuit of pleasure is the ultimate goal in life. Everything that we do, from work to talk to debate, is for this thing ... this happiness. Throughout life, we search ... explore for the things that bring us happiness. It may be defined, it may be ever changing. As for me right now, it seems that I really enjoy debate. The art of rhetoric is empowering; it gives me the strength to manipulate and obtain any result I want.  Heh Heh...  It seems that I enjoy long tangents too, huh?
 2
-“So I heard you believe in geocentrism … “
+“So I heard you believe in geocentrism..."
 Aris: "pshh... uhh... no. No. I never believed such heresy. I'm always right."
 -2
 “Do you always win these debates?”
@@ -42,7 +42,7 @@ Aris: "Wow. How noble of you."
 
 You notice that a guy is heading towards Aris. What needs to be done?
 Glare at the guy.
-Random Guy: "Ahhh! Stop glaring at me! You're too scary!"  He runs away. Aris: "Why did you do that?" Aris runs after that guy.  Unfortunately, you don't run the 2 mile in track, so you can't keep up.
+Random Guy: "Ahhh! Stop glaring at me! You're too scary!"  He runs away. Aris: "Why did you do that?" Aris runs after that guy.  Unfortunately, you don't run the two mile in track, so you can't keep up.
 -500
 "Como estassssss?"
 Random Guy & Aris: "Umm... What?" 
@@ -59,10 +59,10 @@ Random Guy introduces himself as Dave. He looks at you, then starts laughing hys
 Aris: "A little much, but you got the idea."
 0
 “I hope you realize that I confronted Aris out of curiosity.”
-Aris raises an eyebrow, ‘Wow.. you’re acting a lot different…’
+Aris raises an eyebrow, "Wow.. you’re acting a lot different..."
 -1
 Glare at him.
-A. looks at you, "Hey, no need to be hostile to fellow debaters."
+Aris looks at you, "Hey, no need to be hostile to fellow debaters."
 -1
 You laugh and respond, “What do you mean?”
 Aris: "Ya, your conclusion about us is highly inaccurate, I would think you, Dave would come up with something a bit more creative."
@@ -71,14 +71,14 @@ Aris: "Ya, your conclusion about us is highly inaccurate, I would think you, Dav
 You and Aris talk with Dave for a while, exchanging jokes and complaining about teachers. Both of them seem to really be warming up to you. Aris: "It's getting late. I should get going." Before he goes, what should you do?
 Ask for Dave’s number.
 Dave: "I don’t date easily influenced people."  
--5000
+-500
 Push Dave aside, and ask Aris for his number.
 Aris shifts his eyes away, "Do you respond like that to every male?" He cautiously gives you his number, then walks off.
 -2
-Throw your card at Aris and say, "Call me up the next debate!"
+Throw your card at Aris and say, "Call me up for the next debate!"
 Aris waves his hand as he walks away, "I’ll hold you to it."
 2
 Slide your card into Dave’s pocket, then chase after Aris and holler "WAIT!"
-Dave looks at you in disgust while Aris looks at you with fear.
-Dave: "What are you doing?" He walks away in disgust. From you yelling, Aris starts running too.  Unfortunately, you don't run the 2 mile in track, so you can't keep up.  You are left, all alone ... with no date.
--5000
+Dave: "What are you doing?" He walks away in disgust. From your yelling, Aris starts running too.  Unfortunately, you don't run the two mile in track, so you can't keep up.  You are left, all alone ... with no date.
+-500
+
