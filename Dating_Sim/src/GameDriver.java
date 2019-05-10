@@ -49,11 +49,11 @@ public class GameDriver {
 	 */
 	public static int reply() {
 		int response = 0;
-		while(response ==0) {
+		while(response ==0 || response > Characters.size()) {
 			try {
 				System.out.print("\nResponse BRO?: ");
-				response = input.nextInt();
-			
+				response = Integer.parseInt(input.nextLine());
+				
 			}catch(Exception e) {
 				System.out.println("Please enter a number from 1 to "+ Characters.size());
 			}
