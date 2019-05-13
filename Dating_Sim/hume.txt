@@ -1,62 +1,84 @@
-Initial Impression:  You tirely walk to the local park. You notice a young, handsome, buff man talking to your grandma. Response?
-
-Storyline:  
-Choice:
-Interrupt their conversation to say hi to him
-Grandma “Uh… hello? We were talking here!”
-Wait patiently for them to end before saying hi
-They end up talking for a couple hours before they stop
- Enter into the conversation naturally, ‘Oh hey granny! What happened to grandpa!’
-Grandma ‘Oh him? His name is Hume, and we were just talking about earthquakes.’
+You tiredly walk to the local park. You notice a young, handsome, buff man talking to your grandma. Response?
+Interrupt their conversation to say Hi to him
+Grandma: “Huh… hello? Oh, Hi Grandson!” New Guy: "Oh hey there."
+1
+Wait patiently for them to end before saying Hi
+They end up talking for a couple hours. You wait... and wait... and wait... and wait... and wait... and wait... and wait... and wait.  You take a nap for thirty minutes and wake up to them still talking. They finally see you after 3 hours.
+0
+"Oh hey Granny! What happened to Grandpa?"
+Grandma "Hmm... What did you sayyy? Are you talking about him? His name is Huberte, and we were just talking about earthquakes. Why don't you join?"
+1
 Push him aside to talk to your grandma (Choose another place)
+"Grandma!!!!!!!!!!" Grandma: "Ohh!!! Grandson!" The guy, obviously hurt, looks in disgust as he walks away. After talking with your grandma for a bit, you walk off with absolutely no guilty conscious.
+-10000
 
-After observing H. and your grandma for a while, you start to get ancy.
-Pull out your AirPods and listen to ‘Stacy’s Mom’ by Fountains of Wayne
-Grandma looks at you, ‘Good thing you aren’t a teeny bopper H.’
-Take out your phone and start to record your grandma being a pleb
-H. starts to pose for the camera
-Say ‘Oh hey grandma! Who’s this male you’re talking to?’
-H. replies for her ‘Just a neighbor looking out for people!’
-Start to clear your throat ‘What’s going on here?’
-Grandma ignores you, ‘nothing much’
+New Guy introduces himself: “Hail. Name’s Huberte, starts with a H and ends with an E. I was taking my daily jogging route when I saw your grandma. She looked like someone I just had to talk to." What should you say?
+"Hay-soos, you’re creepy"
+Huberte smiles, "Don't worry. I’m friendly"
+0
+"Daily jogging route?"
+Huberte: "Ya, I have a hard time trying to keep a set route, so I change it up. Daily."
+0
+"How sweet of you for thinking about my mama’s mama!"
+Huberte smiles: "Ya, it’s no problem! Keeping elderly company is my duty!"
+1
+"Wow, I wish I was as interactive as you."
+Huberte smiles: "It’s not hard, just motivate yourself to meet people!"
+1
 
-H. introduces himself “Hail. Name’s Hume, starts with a H and ends with an E. I was taking my usual daily new jogging route when I saw your granda, and she seemed to… happy… so I wanted to chat with her.
-‘Geezus you’re creepy’
-H. smiles, ‘I’m friendly’
-‘Usual daily new jogging route?’
-Ya, I have a hard time trying to keep a set route, so I change it up. Daily.
-‘How sweet of you for thinking about me mama’s mama!’
-H. smiles ‘Ya, it’s no problem! Keeping elderly company is my duty!’
-‘Wow, I wish I was as interactive as you.’
-H. smiles, ‘It’s not hard, just need some motivation to meet people!’
+Huberte: "Ok. Now that we are done with introductions, we can continue. You know speaking of earthquakes, I love forks.  Forks, Forks Forks. Especially the fork between beliefs." It looks like he wants you to respond. What do you do?
+Ignore him and pull out your AirPods to listen to ‘Stacy’s Mom’ by Fountains of Wayne.
+Grandma looks at you, "Darn grandson with your new fancy ear thing. Good thing you aren’t a teeny bopper, Huberte." Huberte: "Yeah."
+-1
+"Yeah, I prefer sporks. They keep you from poking zee eye out."
+Huberte: "Sporks? Why would anyone want to use such useless utensils?" Grandma: "Uhhh... Even I don't support sporks."
+-2
+"Umm... What fork between beliefs?"
+Huberte: "Oh. Just the one between relations of ideas and matters of fact. One remains true for all eternity while the other depends on kairos." "Huh. Interesting, I guess."
+2
+"Umm... What's a fork?"
+Huberte: "Well, a fork mainly consists of a handle and three tines, or spikes. It is used to stab and pick up food. Not sure why you don't know but there you go."
+1
 
-H. asks ‘Care to join me on my adventure?’
-‘Fuck off psychopath’
-H. frowns, ‘just trying to be friendly…’
-‘Count me in!’
-H. grins ‘Alright follow me!’
-‘Sounds interesting… Can I join you tomorrow?’
-H smiles, ‘I’ll hold you to it!’
-‘Tempting, but I’ll pass.’
-H frowns, ‘Suit yourself, guess granny and me are going.’
+Grandma: "I think that's it for me. I think I'll head home now." Huberte:"Care to join me on my adventure?"
+"Fork off psychopath"
+Huberte frowns, "just trying to be friendly…". He runs off while you wonder why you just succumbed to the pressure from the game makers.
+-150
+"Count me in!" (choose 1 because of the fork pun)
+Huberte grins "Alright follow me!"
+2
+"Sounds interesting… Can I join you tomorrow?" (Plz, 1 for the fork pun)
+Huberte smiles, "I’ll hold you to it!". The next day, 
+1
+"Tempting, but I’ll pass." (Why are you looking at the other options? 1 is the best)
+Huberte frowns, "Suit yourself, guess I'll be going then."
+-150
 
-You join H. on his jog as he starts saluting to everyone he sees, but he starts to suddenly ignore you, what will you do?
-‘Hey H. why do you salute to every person we pass?’
-‘Who are you?’
-‘How you feeling H.?’
-‘Fine… who are you?’
-‘Umm H.?’
-‘Umm do I know you?
-‘Yo H. wanna take a break at that Taco Bell?’
-‘What is that and who are you?!’
+you join Huberte on his jog. As he runs, you notice that he starts yelling "Forks" at everyone he sees. What should you do?
+"Hey Huberte why do you yell at every person we pass?"
+Huberte: "We must educate the masses. The people must understand the fork!"
+1
+"Are you OK, Huberte?"
+Huberte: "I'm fine… how about you?" You just decide to drop it after that.
+-1
+"Ah, yes. If I knew the great distinction between truths, I would share it too."
+Huberte: "Wow, someone finally understands!"
+2
+"Yo Huberte wanna take a break at that Taco Bell?"
+"What is Taco Bell? And why do you want to stop now?"
+-2
 
-H. responds confused. What will you do now?
-‘Wh-? Bu- We- I- U- gra-  What da ya mean?’
-H. looks solemnly, ‘Look. I’m just jogging here. If you want, you can join me.’
-‘I’m your gf! You said we were going to Prom together and you were going to buy the TICKETS!’
-H. looks shocked, ‘Shoot! Did i forget?! Sorry about that, I’ll make it up to you!’
-Slip your card into his pants
-H. looks more confused
-Walk away while slouching
-H. shrugs and jogs off
+Huberte suddenly stops and turns to you. "Wait. Before we continue, I need to ask you. Do you truly know the fork?" What will you do say?
+"Wh-? Bu- We- I- U- gra-  What da ya mean?’"
+Huberte looks solemnly, "Look. If you don't know, then I have to go." He runs off, leaving you alone ... cold ... sad.
+-10000
+"The fork between relations of ideas and matters of fact?"
+Huberte: "You got it! You know what? I should get your number." You exchange numbers and after a bit more running, you part ways.
+2
+"The fork you use to eat?"
+Huberte: "Not quite, but good try. Maybe if we talk more, you'll eventually get it. I need to go right now. How 'bout we trade numbers?" You exchange numbers and then he runs off.
+0
+"Didn't you just tell me about it?"
+Huberte shrugs, "Probably, but it's just so interesting. We should talk about it more later. Why don't we trade numbers?" You exchange numbers and after a bit more running, you part ways.
+0
 

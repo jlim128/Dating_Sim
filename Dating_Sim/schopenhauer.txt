@@ -1,114 +1,112 @@
-Initial Impression:  You walk into the milk tea bar and watch S. order an extra extra large milk tea with 200% sugar.  He sits down and sighs, then chugs his milk tea.
-
-Storyline:  
-Choice: 
-Get 200% as well and sit next to him
-S. “You too?” and MC “Yeah…”
-Get 25% and sit next to him
-S. shifts slightly away from you
+You walk into the milk tea bar and watch a Sad Boi order an extra extra large milk tea with 500% sugar.  He sits down and sighs, then chugs his milk tea.
+Get 200% sugar as well and sit next to him
+Sad Boi: "You too?" "Yeah..."
+1
+Get 25% sugar and sit next to him
+The Sad Boi shifts slightly away from you
+-1
 Just sit down next to him
-S. nods slightly
+The Sad Boi nods slightly
+0
 Leave (pick another place)
-Situations:
-After some awkward conversations about introductions, How do you respond? 
-We’ve been talking for a while now, so do you have any plans after this?
-Plans? Well all I know right now is that I will suffer.
-Why 200%?
-Because life is suffering, only 200% can somewhat alleviate my pain for a moment
-I’m interested in your work, can you tell me more about it?
-Ah yes.  I’m currently working on an essay right now called “The Earth as Representation and Will” which is definitely an original title and the work is definitely not plagiarized.  It’s about life and its inherent suffering, as well as much more.
-I come here often and this is my first time seeing you. Want me to recommend a drink?
-Get whatever you want … either way you will suffer
+You walk out as the Sad Boi continues to look sad. :(
+-10000
 
-To to know S. better, you decide to ask him a question. What do you ask?
-What’s your favorite color? 
-S. “Gray, like my soul”
-Do you stir with a little spoon? 
-S. “What the hell kind of question is that?”
-Do I hear you’re a philosopher… Thoughts on S.’s icon
-No … still a student, just like you 
-I’m looking for a male for prom. Respond now.
-What??? I don’t even know you. (Immediate lose?)
+Sad Boi: "Hey. My name's Arthur." He sighs. To get to know Arthur better, you decide to ask him a question. What do you ask?
+"What’s your favorite color?"
+Arthur: "Gray, like my soul" "Wow, how dramatic."
+1
+"Do you stir with a little spoon?"
+Arthur: "What kind of question is that?" You decide to just drop it.
+-1
+"So, what do you like?"
+"Well, I dabble in a bit of philosophy"
+1
+"I’m looking for a male for prom. Respond now."
+Arthur: "What??? I don’t even know you." Arthur looks super uncomfortable, and after a couple seconds he gets up and leaves.
+-10000
 
-S. asks “What do you believe about this world?”
-God, salvation, and heaven
-S. “Pshh… Like heaven actually exists...”
-“This world.. Is full of light…”
-S. “What a bunch of B.S.”
-There is no room in hell for me.
-S. “Umm… What?”
-What is worth believing in?
-S. “OMG (not oh my god but omg, just omg), I know.  What a terrible world we live in.
+He sighs again and takes a giant gulp from his boba with 500% sugar. How do you respond? 
+"We’ve been talking for a bit now, do you have any plans after this?"
+Arthur: "Plans? Well all I know right now is that I will suffer."
+0
+"Why 500%?"
+Arthur: "Because life is suffering, only 500% can somewhat alleviate my pain for a moment"
+0
+"I’m interested in philosophy, can you tell me more about it?"
+Arthur: "Ah yes.  I’m currently reading a piece right now called “The Earth as Will and Representation”.  It’s about life and its inherent suffering, as well as much more."
+1
+"I come here often and this is my first time seeing you. Any recommendations for good drinks?"
+Arthur: "Get whatever you want ... either way you will suffer"
+0
 
-S. asks “How do you plan to roam this world?”
-“I walk.. a lonely road, the only one that I have ever known.”
-S. “Don’t know where it goes, but it’s only me, and I walk alone”
-Alone. Dead. Maybe go to prom before that though.
-S. “Same, but probably not the last part.”
-I don’t roam… I limp.
-S. “Sounds on par with everyone else in this dreaded world.”
-I want to travel across the world and explore all the wonders of life!
-S. “Psh… What wonders?”
+Arthur: "What do you believe about this world?"
+"The usual. God(or gods, or no gods just to be PG), salvation, that kind of stuff"
+Arthur: "Pshh... Like salvation actually exists..."
+-1
+“This world... is full of light...”
+Arthur: “What a bunch of B.S. (which stands for butterfly stallions of course)”
+-1
+"There is no room in hell for me."
+Arthur: "Umm... What? I have no idea what that even means."
+0
+"What is worth believing in?"
+Arthur: "OMG (not oh my god but omg, just omg), I know.  What a terrible world we live in." His face brightens up for a second before slumping back down.
+2
 
-S. says, “They tell us that suicide is the greatest piece of cowardice... that suicide is wrong; when it is quite obvious that there is nothing in the world to which every man has a more unassailable title than to his own life and person.”
-“What an edgy statement”
-S. “I guess…”
-“Umm… Are you ok?”
-S. “Hmm?  Oh, I’m fine.  Something just came over me for a second.”
-“Hmm… I see what you mean.”
-S. “Really? The reasons for suicide is something I’ve been contemplating for a while now, not for me of course.”
-“Uh… Advocating for suicide is not something to joke about.”
-S. “Oh, yes. Sorry about that.”
+Arthur: "How do you plan to roam this world?"
+"I walk... a lonely road, the only one that I have ever known.”
+Arthur: "Don’t know where it goes, but it’s only me, and I walk alone"
+1
+"Alone. Dead. Maybe go to prom before that though."
+Arthur: "Same, but probably not the last part.”
+1
+"I don’t roam... I limp."
+Arthur: “Sounds on par with everyone else in this dreaded world.”
+1
+"I want to travel across the world and explore all the wonders of life!"
+Arthur: “Psh... What wonders?”
+-2
 
-You feel a surge in your lower body. What do you do?
-Excuse yourself, say “Gotta take a piss bro”.
-S. “Ok, I think I’ll get going then.” (If not enough love points)
-S. “Sure, I’ll wait then.” (If enough love points)
-Excuse yourself, say “Can you hold? I need a moment.”
-S. “Go right ahead.”
-Hold it, say “How can you drink so much?”
-results in pissing yourself after the WHOLE interaction (Ends playthrough)
-Say “Ah man… I have to go right now… Can i get your number so we can continue later?”
-S. “Eh… I’m sure I’ll see you around again.” (Ends playthrough)
+You suddenly feel the urge to pee after drinking so much milk tea. What do you do?
+“Gotta take a shi shi break bro”.
+Arthur: “Sure, I’ll wait then.” You go to the bathroom and then come back.
+1
+“Can you hold? I need a moment.”
+Arthur: “Go right ahead.” You go to the bathroom and then come back.
+0
+Hold it in.
+Arthur starts to ramble about his life and how it’s a dirty world, but you can't focus on what he's saying because ... it's ... just ... too ... painful. You sprint to the bathroom, but when you come back, Arthur is nowhere to be seen.
+-10000
+Say “Ah man... I have to go right now...”
+Arthur: “Eh... I’m sure I’ll see you around again." He gets up and leaves as you head to the bathroom.
+-10000
 
-S. starts to fidget, and seems to want to leave? Response?
-“You ok? What’s wrong?”
-S. “Yeah… I’m fine.  Thanks for asking.”
-“I activate my trap card!”
-S. “What are you even talking about?”
- “If you have to leave then how about I give you my number or get yours?”
-(If enough love points) S. “yeah sure”
-(If not) S. “Umm… Sorry I don’t have my phone”
-“That 200% kicking in?”
-S. says nothing, but starts fidgeting more.  (If not enough love points) He eventually tells you he needs to go.
+Arthur starts to fidget, and starts staring off in the distance. Response?
+"You ok? What’s wrong?"
+Arthur: “Yeah… I’m fine.  Thanks for asking."
+1
+"I activate my trap card!"
+Arthur snaps back and then proceeds to stare at you, completely lost, “What are you even talking about?” "I'm sorry. I just heard response and instinctly did that."
+-1
+Wave your hand in front of his face.
+Arthur: "Oh, sorry. Just lost myself for a moment there"
+1
+“That 500% kicking in?”
+Arthur says nothing, but starts fidgeting more.  
+0
 
-S. takes a large slurp of his milk tea then suddenly falls over. What do you do?
-Call the police
-A policeman that looks vaguely like ian from smosh jumps in and says “Stop right there!” and then leaves.  This wakes up S.
-Act dramatic and say “OMG is that a dead body?”
-S. suddenly jolts up. S. “No! No! I’m fine!”
-Run out the doors
-You leave.  (Ends playthrough)
-Leave your card in his breast pocket and walk away
-(If enough love points) He calls you back and you meet back up at the milk tea place
-(If not) S. doesn’t end up calling back(Ends playthrough)
+After what seems like hours of discussion in anime time (which is only minutes in Pacific Eastern Time), it’s time to make a decision.
+"Hey, you (Pikachu)! Give me your phone number!"
+Arthur sighs, "I guess. So aggressive though..." You exchange numbers, and after a bit more talking, you part ways.
+-1
+"It seems like you need someone to talk to every once in a while. Here's my number. I'm here for you if you need it."
+Arthur sighs, "Thanks, I guess..." You exchange numbers, and after a bit more talking, you part ways.
+1
+"I think I'll just go now."
+Arthur sighs, "OK, see ya ... I guess ..." You walk out and head home.
+-100000
+"Here’s my card, I’ll call you sometime soon."
+Arthur sighs, "Hwhy not..." You exchange numbers, and after a bit more talking, you part ways.
+0
 
-S. starts to ramble about his life and how it’s a dirty world. What do you do?
-Punch him and walk away
-Strut away ‘Kids these days are too emo.’
-Relate to him, ‘I know how you feel. God damn teeny boppers running aroind, soiling the stweets with their dwugs!’
-S. sighs, ‘ya… ‘
-Praise him hard, “Glorious! You’re words have opened up a new meaning to life for me!’
-‘At least it’s working for you…’
-Relate to him with your background in agriculture, ‘Ya, I feel ya. In my home state, I felt the mud in my sandals...’
-S. sighs, ‘close enough’
-
-After what seems like hours of discussion(minutes in Pacific Eastern Time), it’s time to make a decision.
-You. Me. Prom.
-S. sighs, ‘Not feeling it sorry.’
-How about we go and depress the shit out of those highschool teeny boppers at Prom?
-S. sighs, ‘Hmmmm, as long as there is some sugar.’
-You’re too emo for me. I think you need to go 300%
-S. sighs, ‘Maybe you’re right…’
-Here’s my card, I’ll call you if I think you’re a viable option.
-S. sighs, ‘A phone is for the people that believe in something…’

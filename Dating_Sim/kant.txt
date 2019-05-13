@@ -1,62 +1,84 @@
-Initial Impression:  You walk by the quad to see K. arguing with his friend for lying.  He storms off.
-
-Storyline:  
-Choice:
-“Hey! Why are you so mean to your friend?”
-K. roars, ‘He’s a GOT’ DAMN CUNT!’
-Try to ignore the situation
-You ‘On to a life of no drama…’
+You walk by the quad to see a lengthy buff boi in his prime arguing with his friend. Buff Boi: "WHY THE HELL WOULD YOU LIE?!?!?!"  He turns away and storms off. You walk up to him. What do you say?
+"Hey! Why are you so mean to your friend?"
+Buff Boi: "He’s a GOT’ DAMN LIAR!"
+0
+"Yo! Chill out man!"
+Buff Boi: "NO! I'M ENJOYING MY ANGER!"
+-2
 “Thank you! I hate that guy!”
-K. agrees, ‘I know right?! Jake is such a liar!’
-Leave (Choose another place)
+Buff Boi: "I know right?! Such a liar!"
+2
+Walk off (Choose another place)
+You awkwardly shuffle away as fast as you had approached him. Buff Boi: "Who was that?"
+-10000
 
-K. starts rambling off about his beliefs of principles. How do you react?
-Calm him down and pat him on the ass ‘it’s ok bro, as long as you’re true to yourself then nothing is wrong.’
-K. blushes, ‘Ummm a bit weird.’ (He seems to calm down though)
-Distract him ‘So what do you plan to do now?’
-K yells, ‘I plan to fuck over Jake!’
-Rile him up ‘Ya Fuck Those Sluts, let’s do something about their behavior. No, let’s do something about all these teenie boppers in this school!’
-K agrees, ‘ya.. Get it right… or pay the price!’
-‘Can I do anything to help give you peace of mind?’
-K. grins, ‘Yes… you can help me confront Jake after school about the truth…’
+Kmanuel: "I haven't seen you before. The name's Kmanuel, with a silent k. Hoof. I’m feeling better now." How do you react?
+Pat him on the bumbum "it’s ok bro, as long as you’re true to yourself then nothing is wrong."
+Kmanuel blushes: "Ummm a bit weird."
+0
+"So what do you plan to do now?"
+Kmanuel: "I plan to right the wrong that Jake has done, but otherwise nothing much!"
+1
+"Let’s do something about their behavior, those liars and cheaters. No, let’s do something about all these teenieboppers in this school!"
+Kmanuel "Yes.. All these people should have a little more principle to them!"
+2
+"Can I do anything to help give you peace of mind?"
+Kmanuel: "Yes you can help by always telling the truth. Stick to your principles, or I will get angry."
+1
 
-K. says ‘I’m feeling better now, but I don’t know what do now… Any ideas?
-‘I’m looking for a mate. For Prom.’
-K seems nervous, ‘Ummm… I’ll think about it.’
-‘I don’t know, what do you wanna do?’
-K. tsks, ‘Why so much ass kissing?’
-‘I’m feeling pretty hunger, want to go eat something?’
-K. agrees, ‘Sounds good, I forgot to eat after getting so angry.’
-‘Fuck off, you know what you want.’
-K. thinks, ‘Oh ya, I have to do that thing!’ 
-v
-K. asks ‘Want to come with me to the counselor's office with me? I need to ask for a work permit.’
-‘Sure!’
-K. smiles, ‘great! Thanks for coming!’
-‘I’ll wait outside.’
-K. replies, ‘Ya, that’s fine as well.’
-‘No, I have workafobia.’
-K. frowns, ‘Wow. Asshole.’
-‘Where are you working?’
-K. answers, ‘I’m going to be working at Taco Bell.’
+Kmanuel: "Well I don’t know what to do at the moment ... Any ideas?"
+"I’m looking for a mate. For Prom."
+Kmanuel: "Ummm... I don't even know you."
+-1
+"I don’t know, what do you wanna do?"
+Kmanuel: "I don't know! That's why I asked you!" After a bit of silent, awkward walking,
+-1
+"I’m feeling pretty hungers, want to go eat something?"
+Kmanuel: "Sounds good, I forgot to eat after getting so angry." You both go to Taco Bell and get some tacos from Justin. On the way back,
+1
+"You know what you want, as long as you believe in yourself. Do your duty and follow your heart."
+Kmanuel: "Hmm ... Oh ya, I have to do that thing!"
+1
 
-As K. gets his work permit, he says ‘Hey, how about you apply to Taco Bell with me?’ (You are originally from Indonesia and were apart of DACA, but the senate didn’t make any new laws to protect you when Trump reluctantly removed DACA. SO now you're not eligible for a work permit.
-‘No, I have workafobia.’
-K. shakes his head
-‘I can’t because i’m an illegal immigrant.’
-K. replies, ‘Oh shit that sucks.’
-‘Sure! I’m down!’
-K. grins, ‘Thanks for the support.’
-‘Give me some time to think about it.’
-K answers, ‘Ya, no problem, it’s a sudden request.’
+Kmanuel asks, "Want to come with me to the counselor's office with me? I need to ask for a work permit."
+"Sure! I'm glad they have permits so us children don't get exploited."
+Kmanuel smiles, "I know! It's great! Thanks so much for coming!"
+2
+"Yeah, whatever. I’ll just wait outside."
+Kmanuel: "OK, that’s fine as well."
+0
+"No, I don't think kids should work. I'm just kidding, I'll go with you."
+Kmanuel frowns: "Wow. Asshole. Lying to me." 
+-3
+"Where are you working?"
+Kmanuel: "I’m going to be working at Taco Bell."
+1
+
+As Kmanuel gets his work permit, he says "Hey, how about you apply to Taco Bell with me?"
+"No, I have workafobia."
+Kmanuel shakes his head. Kmanuel: "You're going to have to work someday."
+-2
+"I can’t because i’m an illegal immigrant. I'm originally from Indonesia and was a part of DACA, but the Senate didn’t make any new laws to protect me when Trump removed DACA. So now I'm not eligible for a work permit."
+Kmanuel: "Big rip. Darn that sucks."
+1
+"Sure! I’m down!"
+Kmanuel: "Thanks for the support."
+1
+"Give me some time to think about it."
+Kmanuel: "Ya, no problem, it’s a sudden request."
+0
 
 After leaving the counselor’s office, the lunch bell rings.
-‘Already?! Welp I’m outtie bro’
-K. waves to you, ‘Have a good one!’
-‘Hey. I had a fun time. I would like to continue this conversation later so… can i get your phone number?’
-K grins, ‘Ya. Here you go! I’ll catch you later!’
-‘Not gonna lie, you’re too goodie 2 shoes for me… I would recommend that you fuck off from now on.’
-K. starts to slouch, ‘Ya hate to see it…’
-‘Slip your card into his breast pocket and strut away.’
-K. nervously shouts, ‘I’ll call you after school!’
+"Already?! Welp I’m outtie bro"
+Kmanuel: "Have a good one!"
+-100000
+"Hey. I had a fun time. I would like to continue this conversation later so… can i get your phone number?"
+Kmanuel: "Ya. Here you go! I’ll catch you later!"
+1
+"I gotta go, but before that I need to tell you something. Not gonna lie, but you're kinda weird."
+Kmanuel: "At least your honest. We should talk more so that I can improve. Here's my number."
+2
+Slip your card into his pocket and strut away.
+Kmanuel: "I’ll call you after school, maybe!"
+0
 
