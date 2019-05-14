@@ -1,8 +1,10 @@
 
 public class CharacterTest {
 	public static void main(String[] args) {
-		Character test = new Character("test", "testing site", "singer.txt", new Checkpoint(1, 1), new Checkpoint(2, 2));
-		for(int i = 0; i < test.story.size(); i++) {
+		Character test = new Character("testCharacter.txt");
+		System.out.println(test.getEnding());
+		System.out.println(test.getEnding());
+		for(int i = 0; i < 2; i++) {
 			Dialogue d = test.getDialogue(i);
 			System.out.println(d.getDialogueBefore());
 			System.out.println(d.getChoices());
