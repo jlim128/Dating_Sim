@@ -33,13 +33,22 @@ public class Dialogue {
 	}
 	
 	/**
+	 * Method to get specific choice
+	 * @param choiceNum - number of the choice
+	 * @return choice text
+	 */
+	public String getChoice(int choiceNum) {
+		return choices[choiceNum].getChoice();
+	}
+	
+	/**
 	 * Method to get all choices
 	 * @return string containing all choices
 	 */
 	public String getChoices() {
 		String choice = "";
 		for(int i = 0; i < 4; i++) {
-			choice += choices[i].getChoice() + "\n";
+			choice += i + 1 + ") " + choices[i].getChoice() + "\n";
 		}
 		return choice;
 	}
@@ -50,7 +59,7 @@ public class Dialogue {
 	 * @return the response
 	 */
 	public String getResponse(int choiceNum) {
-		return choices[choiceNum - 1].getResponse();
+		return choices[choiceNum].getResponse();
 	}
 	
 	/**
@@ -59,6 +68,7 @@ public class Dialogue {
 	 * @return the love points
 	 */
 	public int getLP(int choiceNum) {
-		return choices[choiceNum - 1].getLP();
+		return choices[choiceNum].getLP();
 	}
+	
 }
