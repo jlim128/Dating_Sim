@@ -1,14 +1,17 @@
 Soup Kitchen
 
-After feeling guilty for being useless, you go to the soup kitchen to help those in need. As you walk in, you look for an official to allow you to volunteer. The first person you notice is a Bro handing out cabbage soup. What do you do?
+Rudolph: "Thanks for reducing the poverty in the world."
+Rudolph: "Why aren't you donating more of your money to help the poor?"
+
+After feeling guilty for being useless, you go to the soup kitchen to help those in need. As you walk in, you look for an official to allow you to volunteer.$The first person you notice is a Bro handing out cabbage soup. What do you do?
 Approach him and ask "Is there anyway I can help?"
 Bro: "Yes, of course. We would love more help"
 1
 Ask for some food.
-Bro: “Uh... you aren’t homeless." "Oh... I guess I can help then."
+Bro: “Uh... you aren’t homeless."$"Oh... I guess I can help then."
 -1
 Talk to the local homeless.
-After speaking to some of the people around you, the Bro approaches you. Bro: "Excuse me, can I help you?" "Oh hey, 
+After speaking to some of the people around you, the Bro approaches you. Bro: "Excuse me, can I help you?"$"Oh hey, uh... can help out?"$"Bro: "Oh... yeah sure."
 0
 Leave (Choose another place)
 You walk out. Who cares about their feelings of guilt anyway?
@@ -16,7 +19,7 @@ You walk out. Who cares about their feelings of guilt anyway?
 
 Rudolph: "So, my name's Rudolph. We’re handing out soup right now, why don't we get started?"
 "Psh... You can't tell me what to do!"
-Rudolph: "Well, there's nothing else for you to do now." "Oh... I guess I hand out soup then."
+Rudolph: "Well, there's nothing else for you to do now."$"Oh... I guess I hand out soup then."
 -1
 "Ok! Sounds great!"
 Rudolph: "Good! Glad to have another enthusiastic worker."
@@ -47,13 +50,13 @@ Walk alongside him to assist him.
 Rudolph: "Thanks for the help."
 2
 Head to the other side of the room to cover more ground.
-As you walk back to get more soup, you pass by Rudolph. Rudolph: "Nice. We're making good time now."
+As you walk back to get more soup, you pass by Rudolph.$Rudolph: "Nice. We're making good time now."
 1 
 Look at some homeless and quote, "Pitiful heartless. Mindlessly collecting hearts..."
 Rudolph: "What are you even saying? That's so rude." You ignore him and start passing out the soup again.
 -2
 Start to talk to the homeless.
-After a bit of conversing, Rudolph passes by. Rudolph: "How 'bout we help everyone before we relax, okay?" A little embarrassed, you get up to go pass out more soup.
+After a bit of conversing, Rudolph passes by.$Rudolph: "How 'bout we help everyone before we relax, okay?" A little embarrassed, you get up to go pass out more soup.
 -1
 
 After everyone has had their fill, yall head to a small circle of chairs, where there the few volunteers are sitting and chatting. You want to ask Rudolph a question. What should you ask?
@@ -61,27 +64,27 @@ After everyone has had their fill, yall head to a small circle of chairs, where 
 Rudolph: "Easy. Donate all of it to charity."
 1
 "If you had one superpower, what would it be?"
-Rudolph: "The power to solve poverty." "How would that work?" Rudolph: "I'm not sure, but it's what I would want more than anything else."
+Rudolph: "The power to solve poverty."$"How would that work?"$Rudolph: "I'm not sure, but it's what I would want more than anything else."
 1
 "Do you follow Kanye West on Twitter?"
 Rudolph: "Why would I support a wealthy individual who doesn't spend their resources to help the less fortunate?"
 -2
 "So … do you think we are all characters in a game and that our choices are predetermined by some higher entity?"
-Rudolph: "What a weird question. If we were, it seems too unfair to have given such an uneven distribution of wealth across the world.
+Rudolph: "What a weird question. If we were, it seems too unfair to have given such an uneven distribution of wealth across the world."
 0
 
 The soup kitchen closes and both of you walk outside and head to a nearby pond. Suddenly, you see a little girl fall in and start to struggle to stay afloat! What do you do?
 Jump in without caring about your fancy shoes to save the girl immediately.
-You dive right in, but your feet hit the bottom of the pond very quickly, rattling your legs. You wade in slowly and take what feels like forever to lift the girl out. Your phone's all wet after that, so you have Rudolph call 911. Rudolph: "Thank you. You did the right thing." You shiver a bit, and your legs start aching from your dive. The paramedics arrive shortly and handle the situation.
+You dive right in, but your feet hit the bottom of the pond very quickly, rattling your legs.$You wade in slowly and take what feels like forever to lift the girl out. Your phone's all wet after that, so you have Rudolph call 911.$Rudolph: "Thank you. You did the right thing." You shiver a bit, and your legs start aching from your dive. The paramedics arrive shortly and handle the situation.
 1
 Call 911.
 Rudolph jumps in to the pond and quickly saves the girl. He seemed very prepared to do this for some reason. The paramedics arrive right after Rudolph saves the girl and handle the situation.
 2
 Panic.
-"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH." Rudolph jumps in to the pond and quickly saves the girl. He seemed very prepared to do this for some reason. Someone who heard your screams came by and called 911. Rudolph: "You can calm down now, no thanks to your help." The paramedics arrive shortly and handle the situation.
+"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH."$Rudolph jumps in to the pond and quickly saves the girl. He seemed very prepared to do this for some reason. Someone who heard your screams came by and called 911.$Rudolph: "You can calm down now, no thanks to your help." The paramedics arrive shortly and handle the situation.
 -1
 Urge Rudolph to go help her.
-Rudolph: "What? You don't want to get your nice shoes wet? Come on she needs help!" "No! I can't swim!" Rudolph jumps in to the pond and quickly saves the girl. He seemed very prepared to do this for some reason. Rudolph: "Hey! Call 911! She needs help now!" You call and the paramedics arrive shortly to handle the situation.
+Rudolph: "What? You don't want to get your nice shoes wet? Come on she needs help!"$"No! I can't swim!" Rudolph jumps in to the pond and quickly saves the girl. He seemed very prepared to do this for some reason.$Rudolph: "Hey! Call 911! She needs help now!" You call and the paramedics arrive shortly to handle the situation.
 0
 
 A couple days pass after that traumatizing event, and you've been going to the soup kitchen every day now. You feel like your getting to know Rudolph and realize it’s time for dad’s Waffle Wednesday dinner. The soup kitchen closes and you approach Rudolph as you walk out.
