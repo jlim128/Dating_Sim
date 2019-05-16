@@ -20,8 +20,9 @@ public class GameDriver {
 	JButton op4 = new JButton("4");
 	JButton next = new JButton("NEXT -->");
 	JButton result = new JButton("How we deemed your interation.");
-	JLabel text = new JLabel("\"After a long week of school, you stayed up thinking about life and its complexities. When you arise, \"\r\n" + 
-			"				+ \"you have only one thought in your head, \\'It's MATING SEASON!\"");
+	JTextArea text = new JTextArea("After a long week of school, you stayed up thinking about life and its complexities. "
+			+ "\nWhen you arise, you have only one thought in your head, " + 
+			"\'It's MATING SEASON!\'");
 	JPasswordField password;
 	JTextField field = new JTextField(20);
 	JTextArea area;
@@ -51,8 +52,15 @@ public class GameDriver {
 	public void setUpWindow(Container pane) {
 		pane.setLayout(new GridBagLayout());
 		pane.setBackground(Color.cyan);
+		//text.setPreferredSize(text.getPreferredSize());
+		text.setPreferredSize(new Dimension(600, 150));
 		Border border = BorderFactory.createLineBorder(Color.BLUE, 5);
 		text.setFont(new Font("Serif", Font.BOLD, 14));
+
+		text.setLineWrap(true);
+        text.setWrapStyleWord(true);
+        text.setOpaque(false);
+        text.setEditable(false);
 		
 		GridBagConstraints c = new GridBagConstraints();
 		
@@ -67,10 +75,12 @@ public class GameDriver {
 		c.gridy = 1;
 		c.ipady = 40;
 		c.gridwidth = 4;
+		
 		border = BorderFactory.createLineBorder(Color.BLUE, 1);
 		text.setBorder(border);
 		pane.add(text,c);
 		text.setVisible(false);
+		
 		
 		c.insets = new Insets(20,0,0,0);
 		c.fill = GridBagConstraints.HORIZONTAL;
@@ -123,26 +133,31 @@ public class GameDriver {
 		*/
 		
 		c.fill = GridBagConstraints.HORIZONTAL;
+		//field.setBounds(1200, 200, 200, 30);
 		c.gridy = 2;
 		c.gridwidth = 2;
 		c.gridx = 0;
-		pane.add(field, c);
+		field.setVisible(false);
+		frame.add(field, c);
 		field.setVisible(false);
 		
 	}
+	
+	
 	public void addToText(String txt) {
 		/*
 		while(txt.indexOf("\n") != -1) {
 			txt = txt.substring(0,txt.indexOf("\n")) + "<br>" + txt.substring(txt.indexOf("\n") + 1, txt.length());
 		}
 		*/
-		txt = txt.replace("\n", "<br>");
+		//txt = txt.replace("\n", "<br>");
 
 		text.setText(text.getText() + txt);
 	}
 	
 	public void presentTxt() {
-		text.setText("<html>" + text.getText() + "</html>");
+		//text.setText("<html>" + text.getText() + "</html>");
+		//text.setPreferredSize(text.getPreferredSize());
 		text.setVisible(true);
 	}
 	public void resetTxt() {
@@ -157,7 +172,7 @@ public class GameDriver {
 		op4.setVisible(false);
 		
 		resetTxt();
-		addToText(d.getChoice(resp) + "\n " + d.getResponse(resp));
+		addToText( "\n" + d.getChoice(resp) + "\n " + d.getResponse(resp));
 		presentTxt();
 
 		next.addActionListener(new ActionListener() {
@@ -216,9 +231,12 @@ public class GameDriver {
 			addToText("\n " + (x +1) + ") " + characters.get(x).getLocation());
 		}
 		addToText("\n Choose location number: ");
+		//text.setPreferredSize(text.getPreferredSize());
 		presentTxt();
 		System.out.println(text.getText());
 		field.setVisible(true);
+		field.revalidate();
+		field.repaint();
 		field.addActionListener(new ActionListener() {
 			
 			public void actionPerformed(ActionEvent e) {
@@ -319,6 +337,7 @@ public class GameDriver {
 	*/
 	public void summary() {
 		resetTxt();
+		try {
 		if (characters.size() > 0) {
 			addToText(currentChar.getEnding());
 			result.setText("Continue your adventure to becoming the king of plebs?");
@@ -336,6 +355,9 @@ public class GameDriver {
 			addToText("\n " +"You missed out on everyone.");
 		}
 		presentTxt();
+		}catch(Exception e){
+			System.out.println("fml");
+		}
 	}
 
 }

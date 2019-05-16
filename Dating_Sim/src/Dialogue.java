@@ -50,8 +50,19 @@ public class Dialogue {
 	public void getChoices(JButton[] op) {
 		String choice = "";
 		for(int i = 0; i < 4; i++) {
-			op[i].setText( i + 1 + ") " + choices[i].getChoice());
+			if(choices[i].getChoice().length()>15) {
+				op[i].setText( i + 1 + ") " + choices[i].getChoice().substring(0,7) + "\n" + choices[i].getChoice().substring(7,choices[i].getChoice().length()-1));
+			}else {
+				op[i].setText( i + 1 + ") " + choices[i].getChoice());
+			}
 		}
+	}
+	
+	public void addToButton(JButton but, String txt) {
+		if(txt.length() >=45) {
+			txt = txt.substring(0,15) + "\n" + txt.substring(15,30) + "\n" + txt.substring(30, txt.length()-1);
+		}
+		but.setText(but.getText() + txt);
 	}
 	public void getResponses(JButton[] op) {
 		String choice = "";

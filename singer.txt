@@ -8,7 +8,7 @@ Approach him and ask "Is there anyway I can help?"
 Bro: "Yes, of course. We would love more help"
 1
 Ask for some food.
-Bro: �Uh... you aren�t homeless."$"Oh... I guess I can help then."
+Bro: "Uh... you aren"t homeless."$"Oh... I guess I can help then."
 -1
 Talk to the local homeless.
 After speaking to some of the people around you, the Bro approaches you. Bro: "Excuse me, can I help you?"$"Oh hey, uh... can help out?"$"Bro: "Oh... yeah sure."
@@ -17,7 +17,7 @@ Leave (Choose another place)
 You walk out. Who cares about their feelings of guilt anyway?
 -10000
 
-Rudolph: "So, my name's Rudolph. We�re handing out soup right now, why don't we get started?"
+Rudolph: "So, my name's Rudolph. We"re handing out soup right now, why don't we get started?"
 "Psh... You can't tell me what to do!"
 Rudolph: "Well, there's nothing else for you to do now."$"Oh... I guess I hand out soup then."
 -1
@@ -69,7 +69,7 @@ Rudolph: "The power to solve poverty."$"How would that work?"$Rudolph: "I'm not 
 "Do you follow Kanye West on Twitter?"
 Rudolph: "Why would I support a wealthy individual who doesn't spend their resources to help the less fortunate?"
 -2
-"So � do you think we are all characters in a game and that our choices are predetermined by some higher entity?"
+"So " do you think we are all characters in a game and that our choices are predetermined by some higher entity?"
 Rudolph: "What a weird question. If we were, it seems too unfair to have given such an uneven distribution of wealth across the world."
 0
 
@@ -87,14 +87,14 @@ Urge Rudolph to go help her.
 Rudolph: "What? You don't want to get your nice shoes wet? Come on she needs help!"$"No! I can't swim!" Rudolph jumps in to the pond and quickly saves the girl. He seemed very prepared to do this for some reason.$Rudolph: "Hey! Call 911! She needs help now!" You call and the paramedics arrive shortly to handle the situation.
 0
 
-A couple days pass after that traumatizing event, and you've been going to the soup kitchen every day now. You feel like your getting to know Rudolph and realize it�s time for dad�s Waffle Wednesday dinner. The soup kitchen closes and you approach Rudolph as you walk out.
-"I�ll see ya tomorrow k?"
+A couple days pass after that traumatizing event, and you've been going to the soup kitchen every day now. You feel like your getting to know Rudolph and realize it"s time for dad"s Waffle Wednesday dinner. The soup kitchen closes and you approach Rudolph as you walk out.
+"I"ll see ya tomorrow k?"
 Rudolph: "Hey before you go, we should exchange numbers so we can hang out sometime."
 0
 "Give me your number! Now!"
 Rudolph: "Umm... I guess."
 -2
-"Here�s my card. I�ll call you."
+"Here"s my card. I"ll call you."
 Rudolph blushes, "Ya. sounds good!"
 1
 "I've been having a fun time with you, can I get your number so we can catch up outside the soup kitchen?"
