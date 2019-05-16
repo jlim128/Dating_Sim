@@ -13,6 +13,8 @@ public class GameDriver {
 	 */
 	public void runGame() {
 		inputChars();
+		System.out.println("After a long week of school, you stayed up thinking about your short life and its many complexities. When you arise, "
+				+ "you feel motivated to go out and meet new people.");
 		do {
 			runOpening();
 		} while (scenario() && characters.size() > 0);
@@ -29,10 +31,8 @@ public class GameDriver {
 	}
 	
 	public void runOpening() {
-		System.out.println("After a long week of school, you stayed up thinking about life and its complexities. When you arise, "
-				+ "you have only one thought in your head, \'It's MATING SEASON!");
 		int location = -1;
-		System.out.println("\n\n============PICK A LOCATION #NUMBER============");
+		System.out.println("\n\n============PICK A LOCATION NUMBER============");
 		for(int x =0; x < characters.size(); x++){
 			System.out.println((x +1) + ") " + characters.get(x).getLocation());
 		}
