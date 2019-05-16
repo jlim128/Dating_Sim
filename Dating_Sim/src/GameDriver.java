@@ -1,5 +1,10 @@
 import java.util.*;
+import java.util.List;
 import java.io.*;
+import java.awt.*;
+import java.awt.event.*;
+import javax.swing.*;
+import javax.swing.border.*;
 
 public class GameDriver {
 	private String charTextFiles[] = new String[] {"aristotle.txt", "hume.txt", 
@@ -7,16 +12,192 @@ public class GameDriver {
 	private ArrayList<Character> characters = new ArrayList<Character> ();
 	private Scanner input = new Scanner(System.in);
 	private Character currentChar;
+	//Swing stuff
+	JFrame frame = new JFrame("I have the 'HOTS' for you <3");
+	JButton op1 = new JButton("1");
+	JButton op2 = new JButton("2");
+	JButton op3 = new JButton("3");
+	JButton op4 = new JButton("4");
+	JButton next = new JButton("NEXT -->");
+	JButton result = new JButton("How we deemed your interation.");
+	JLabel text = new JLabel("\"After a long week of school, you stayed up thinking about life and its complexities. When you arise, \"\r\n" + 
+			"				+ \"you have only one thought in your head, \\'It's MATING SEASON!\"");
+	JPasswordField password;
+	JTextField field = new JTextField(20);
+	JTextArea area;
+	JButton[] JBut = new JButton[] { op1, op2, op3, op4};
 	
 	/**
 	 * 
 	 */
 	public void runGame() {
+		
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		setUpWindow(frame.getContentPane());
+		frame.pack();
+		frame.setSize(1200,1000);
+		frame.setVisible(true);
 		inputChars();
+		//currentChar = characters.get(0);
+		runOpening();
+		/*
 		do {
 			runOpening();
 		} while (scenario() && characters.size() > 0);
-		summary();
+		*/
+		//summary();
+	}
+	
+	public void setUpWindow(Container pane) {
+		pane.setLayout(new GridBagLayout());
+		pane.setBackground(Color.cyan);
+		Border border = BorderFactory.createLineBorder(Color.BLUE, 5);
+		text.setFont(new Font("Serif", Font.BOLD, 14));
+		
+		GridBagConstraints c = new GridBagConstraints();
+		
+		/*
+		this is for the picture
+		c.fill = GridBagConstraints.CENTER;
+		c.gridx = 0;
+		c.gridy = 0;
+		 */
+		c.fill = GridBagConstraints.CENTER;
+		c.gridx = 0;
+		c.gridy = 1;
+		c.ipady = 40;
+		c.gridwidth = 4;
+		border = BorderFactory.createLineBorder(Color.BLUE, 1);
+		text.setBorder(border);
+		pane.add(text,c);
+		text.setVisible(false);
+		
+		c.insets = new Insets(20,0,0,0);
+		c.fill = GridBagConstraints.HORIZONTAL;
+		c.gridy = 2;
+		c.gridx = 0;
+		c.ipady = 0;
+		c.gridwidth = 1;
+		//c.gridheight = 2;
+		pane.add(op1, c);
+		op1.setVisible(false);
+		
+		c.fill = GridBagConstraints.HORIZONTAL;
+		c.gridy = 2;
+		c.gridx = 1;
+		pane.add(op2, c);
+		op2.setVisible(false);
+		
+		c.fill = GridBagConstraints.HORIZONTAL;
+		c.gridy = 2;
+		c.gridx = 2;
+		pane.add(op3, c);
+		op3.setVisible(false);
+		
+		c.fill = GridBagConstraints.HORIZONTAL;
+		c.gridy = 2;
+		c.gridx = 3;
+		pane.add(op4, c);
+		op4.setVisible(false);
+		
+		c.fill = GridBagConstraints.HORIZONTAL;
+		c.gridy = 2;
+		c.gridwidth = 2;
+		c.gridx = 2;
+		pane.add(next, c);
+		next.setVisible(false);
+		
+		c.fill = GridBagConstraints.HORIZONTAL;
+		c.gridy = 2;
+		c.gridwidth = 2;
+		c.gridx = 2;
+		pane.add(result, c);
+		result.setVisible(false);
+		/*
+		c.fill = GridBagConstraints.HORIZONTAL;
+		c.gridy = 2;
+		c.gridwidth = 4;
+		c.gridx = 0;
+		pane.add(password, c);
+		password.setVisible(false);
+		*/
+		
+		c.fill = GridBagConstraints.HORIZONTAL;
+		c.gridy = 2;
+		c.gridwidth = 2;
+		c.gridx = 0;
+		pane.add(field, c);
+		field.setVisible(false);
+		
+	}
+	public void addToText(String txt) {
+		/*
+		while(txt.indexOf("\n") != -1) {
+			txt = txt.substring(0,txt.indexOf("\n")) + "<br>" + txt.substring(txt.indexOf("\n") + 1, txt.length());
+		}
+		*/
+		txt = txt.replace("\n", "<br>");
+
+		text.setText(text.getText() + txt);
+	}
+	
+	public void presentTxt() {
+		text.setText("<html>" + text.getText() + "</html>");
+		text.setVisible(true);
+	}
+	public void resetTxt() {
+		text.setText("");
+		text.setVisible(false);
+	}
+	public void setNext(int resp) {
+		next.setVisible(true);
+		op1.setVisible(false);
+		op2.setVisible(false);
+		op3.setVisible(false);
+		op4.setVisible(false);
+		
+		resetTxt();
+		addToText(d.getChoice(resp) + "\n " + d.getResponse(resp));
+		presentTxt();
+
+		next.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				storyCount++;
+				
+				if(storyCount>= currentChar.getStoryLength()) {
+					next.setVisible(false);
+					result.setVisible(true);
+					result.addActionListener(new ActionListener() {
+						public void actionPerformed(ActionEvent e) {
+							resetTxt();
+							summary();
+						}
+					});
+					
+					
+					
+					//summary();
+					characters.remove(currentChar);
+				}else {
+				if (currentChar.checkLose()) {
+						characters.remove(currentChar);
+					}else {
+							
+						scenario();
+					}
+
+				}
+			}
+		});
+		
+	}
+	
+	public void set4Options() {
+		next.setVisible(false);
+		op1.setVisible(true);
+		op2.setVisible(true);
+		op3.setVisible(true);
+		op4.setVisible(true);
 	}
 	
 	/**
@@ -29,74 +210,132 @@ public class GameDriver {
 	}
 	
 	public void runOpening() {
-		System.out.println("After a long week of school, you stayed up thinking about life and its complexities. When you arise, "
-				+ "you have only one thought in your head, \'It's MATING SEASON!");
-		int location = -1;
-		System.out.println("\n\n============PICK A LOCATION #NUMBER============");
+		
+		addToText("\n\n============PICK A LOCATION #NUMBER============");
 		for(int x =0; x < characters.size(); x++){
-			System.out.println((x +1) + ") " + characters.get(x).getLocation());
+			addToText("\n " + (x +1) + ") " + characters.get(x).getLocation());
 		}
-		System.out.println();
-		System.out.print("Choose location number: ");
-		location = reply(characters.size());
-		currentChar = characters.get(location);
-		System.out.println();
+		addToText("\n Choose location number: ");
+		presentTxt();
+		System.out.println(text.getText());
+		field.setVisible(true);
+		field.addActionListener(new ActionListener() {
+			
+			public void actionPerformed(ActionEvent e) {
+				String in = e.getActionCommand();
+				int newI = changeStr(in);
+				if(newI >0 && newI<characters.size()) {
+					currentChar = characters.get(newI -1);
+					storyCount =0;
+					field.setVisible(false);
+					scenario();
+					//System.out.println(currentChar.getLocation());
+				} else {
+					JOptionPane.showMessageDialog(frame,
+	                        "Get it right or pay the price, bozo!",
+	                        "Error Message",
+	                        JOptionPane.ERROR_MESSAGE);
+	                
+	                        
+	                }
+			}
+		});
+		
+		//location = reply(characters.size());
+		//currentChar = characters.get(location);
+		
 	}
 	
+	public int changeStr(String in) {
+		for(int i =0;i<5;i++) {
+			if (in.equals(i + "")) {
+				return i;
+			}
+		}
+		return 0;
+	}
+	//Integer.parseInt(input.nextLine());
 	/**
 	 * Method that insures that the user will reply
 	 * @return user's int response
 	 */
-	public int reply(int numResponses) {
-		int response = 0;
-		while(response == 0 || response > numResponses) {
-			try {
-				response = Integer.parseInt(input.nextLine());
-				if( response > numResponses) {
-					System.out.print("Please enter a number from 1 to "+ numResponses + ":");
-				}
-			}catch(Exception e) {
-				System.out.print("Please enter a number from 1 to "+ numResponses + ":");
+	public void reply() {
+		
+		op1.addActionListener( new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				setNext(0);
+				currentChar.addLovePoints(d.getLP(0));
 			}
-		}
-		return response - 1;
+		});
+		op2.addActionListener( new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				setNext(1);
+				currentChar.addLovePoints(d.getLP(1));
+			}
+		});
+		op3.addActionListener( new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				setNext(2);
+				currentChar.addLovePoints(d.getLP(2));
+			}
+		});
+		op4.addActionListener( new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				setNext(3);
+				currentChar.addLovePoints(d.getLP(3));
+			}
+		});
+		
 	}
-	
+	private int storyCount =0;
+	private Dialogue d;
 	/**
 	 * Method that will play each character's scenario
 	 */
-	public boolean scenario() {
-		for(int i = 0; i < currentChar.getStoryLength(); i++) {
-			Dialogue d = currentChar.getDialogue(i);
-			System.out.println(d.getDialogueBefore());
-			System.out.println(d.getChoices());
-			System.out.print("Enter your choice: ");
-			int response = reply(4);
-			System.out.println();
-			System.out.println(d.getChoice(response));
-			System.out.println(d.getResponse(response));
-			currentChar.addLovePoints(d.getLP(response));
-			System.out.println();
-			if (currentChar.checkLose()) {
-				if (i == 0) {
-					characters.remove(currentChar);
-				}
-				return i == 0;
-			}
+	public void scenario() {
+
+		resetTxt();
+		
+		d = currentChar.getDialogue(storyCount);
+		addToText(d.getDialogueBefore() + "\n Enter your choice: ");
+		presentTxt();
+		d.getChoices(JBut);
+		set4Options();
+		reply();
 		}
-		return false;
-	}
+		/*
+		if (currentChar.checkLose()) {
+			if (storyCount == 0) {
+				characters.remove(currentChar);
+			}
+			return storyCount == 0;
+		}
+	*/
+		
 	
+
 	/**
 	* Method that will get a summary of your results
 	*/
 	public void summary() {
+		resetTxt();
 		if (characters.size() > 0) {
-			System.out.println(currentChar.getEnding());
+			addToText(currentChar.getEnding());
+			result.setText("Continue your adventure to becoming the king of plebs?");
+			result.addActionListener(new ActionListener(){
+				public void actionPerformed(ActionEvent e) {
+					result.setText("How we deemed your interation.");
+					result.setVisible(false);
+					resetTxt();
+					
+					runOpening();
+				}
+			});
 		}
 		else {
-			System.out.println("You missed out on everyone.");
+			addToText("\n " +"You missed out on everyone.");
 		}
+		presentTxt();
 	}
 
 }

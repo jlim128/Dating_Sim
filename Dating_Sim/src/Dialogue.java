@@ -1,9 +1,11 @@
+import javax.swing.JButton;
 /**
  * 
  * Dialogue class - class to contain a set of dialogue and choices
  * @author Jonathan Lim
  *
  */
+
 public class Dialogue {
 	private String dialogueBefore;
 	private Choice[] choices = new Choice[4];
@@ -45,12 +47,17 @@ public class Dialogue {
 	 * Method to get all choices
 	 * @return string containing all choices
 	 */
-	public String getChoices() {
+	public void getChoices(JButton[] op) {
 		String choice = "";
 		for(int i = 0; i < 4; i++) {
-			choice += i + 1 + ") " + choices[i].getChoice() + "\n";
+			op[i].setText( i + 1 + ") " + choices[i].getChoice());
 		}
-		return choice;
+	}
+	public void getResponses(JButton[] op) {
+		String choice = "";
+		for(int i = 0; i < 4; i++) {
+			op[i].setText(choices[i].getResponse());
+		}
 	}
 	
 	/**
