@@ -1,3 +1,8 @@
+Test
+
+Win
+Lose
+
 Dialogue Before
 Choice 1
 Response 1
