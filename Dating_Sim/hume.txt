@@ -46,7 +46,7 @@ Huberte: "Well, a fork mainly consists of a handle and three tines, or spikes. I
 1
 
 Grandma: "I think that's it for me. I think I'll head home now."$Huberte:"Care to join me on my adventure?"
-"Fork off psychopath"
+"Fork off psychopath."
 Huberte frowns, "just trying to be friendly..." He runs off while you wonder why you just succumbed to the pressure from the game makers.
 -150
 "Count me in!"(choose 1 because of the fork pun)

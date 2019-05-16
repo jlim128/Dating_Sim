@@ -5,7 +5,7 @@ Arthur went back to being Sad Boi. :(
 
 You walk into the milk tea bar and watch a Sad Boi order an extra extra large milk tea with 500% sugar. $He sits down and sighs, then chugs his milk tea.
 Get 500% sugar as well and sit next to him
-Sad Boi: "You too?" "Yeah..."
+Sad Boi: "You too?"$"Yeah..."
 1
 Get 25% sugar and sit next to him
 The Sad Boi shifts slightly away from you
@@ -17,7 +17,7 @@ Leave (pick another place)
 You walk out as the Sad Boi continues to look sad. :(
 -10000
 
-Sad Boi: "Hey. My name's Arthur." He sighs. To get to know Arthur better, you decide to ask him a question. What do you ask?
+Arthur: "Hey. My name's Arthur." He sighs. To get to know Arthur better, you decide to ask him a question. What do you ask?
 "What’s your favorite color?"
 Arthur: "Gray, like my soul" "Wow, how dramatic."
 1
@@ -28,7 +28,7 @@ Arthur: "What kind of question is that?" You decide to just drop it.
 "Well, I dabble in a bit of philosophy."
 1
 "I’m looking for a male for prom. Respond now."
-Arthur: "What??? I don’t even know you." Arthur looks super uncomfortable, and after a couple seconds he gets up and leaves.
+Arthur: "Uh... I don’t even know you." Arthur looks super uncomfortable, and after a couple seconds he gets up and leaves.
 -10000
 
 He sighs again and takes a giant gulp from his boba with 500% sugar. How do you respond? 
@@ -84,15 +84,15 @@ Hold it in.
 Arthur starts to ramble about his life and how it’s a dirty world, but you can't focus on what he's saying because ... it's ... just ... too ... painful.$You sprint to the bathroom, but when you come back, Arthur is nowhere to be seen.
 -10000
 Say “Ah man... I have to go right now...”
-Arthur: “Eh... I’m sure I’ll see you around again." He gets up and leaves as you head to the bathroom.
--10000
+Arthur: “Eh... ok." He waits as you head to the bathroom.
+0
 
 Arthur starts to fidget, and starts staring off in the distance. Response?
 "You ok? What’s wrong?"
 Arthur: “Yeah… I’m fine.  Thanks for asking."
 1
 "I activate my trap card!"
-Arthur snaps back and then proceeds to stare at you, completely lost, “What are you even talking about?"$"I'm sorry. I just heard response and instinctly did that."
+Arthur snaps back and then proceeds to stare at you, completely lost, “What are you even talking about?"$"I'm sorry. I just heard response and instinctively did that."
 -1
 Wave your hand in front of his face.
 Arthur: "Oh, sorry. Just lost myself for a moment there"
@@ -110,7 +110,7 @@ Arthur sighs, "Thanks, I guess..." You exchange numbers, and after a bit more ta
 1
 "I think I'll just go now."
 Arthur sighs, "OK, see ya ... I guess ..." You walk out and head home.
--100000
+-3
 "Here’s my card, I’ll call you sometime soon."
 Arthur sighs, "Hwhy not..." You exchange numbers, and after a bit more talking, you part ways.
 0

@@ -74,14 +74,14 @@ Aris: "Ya, your conclusion about us is highly inaccurate, I would think you, Dav
 1
 
 You and Aris talk with Dave for a while, exchanging jokes and complaining about teachers. Both of them seem to really be warming up to you.$Aris: "It's getting late. I should get going." Before he goes, what should you do?
-Ask for Dave’s number.
-Dave: "I don’t date easily influenced people."  
--500
+"Hey I should get both your numbers so we can catch up tomorrow?"
+Dave: "Hwhy not?" Aris: "Ok." You trade numbers and head your separate ways.
+0
 Push Dave aside, and ask Aris for his number.
 Aris shifts his eyes away, "Do you respond like that to every male?" He cautiously gives you his number, then walks off.
 -2
 Throw your card at Aris and say, "Call me up for the next debate!"
-Aris waves his hand as he walks away, "I’ll hold you to it."
+Aris catches it and waves his hand as he walks away, "I’ll hold you to it."
 2
 Slide your card into Dave’s pocket, then chase after Aris and holler "WAIT!"
 Dave: "What are you doing?" He walks away in disgust. From your yelling, Aris starts running too.  Unfortunately, you don't run the two mile in track, so you can't keep up.  You are left, all alone ... with no date.
