@@ -20,9 +20,8 @@ public class GameDriver {
 	JButton op4 = new JButton("4");
 	JButton next = new JButton("NEXT -->");
 	JButton result = new JButton("How we deemed your interation.");
-	JTextArea text = new JTextArea("After a long week of school, you stayed up thinking about life and its complexities. "
-			+ "\nWhen you arise, you have only one thought in your head, " + 
-			"It's MATING SEASON!");
+	JTextArea text = new JTextArea("After a long week of school, you stayed up thinking about your short life and its many complexities.\nWhen you arise, "
+			+ "you feel motivated to go out and meet new people.");
 	JPasswordField password;
 	JTextField field = new JTextField(20);
 	JTextArea area;
