@@ -58,6 +58,14 @@ public class Dialogue {
 		}
 	}
 	
+	public String getChoices() {
+		String choice = "";
+		for(int i = 0; i < 4; i++) {
+			choice = i + 1 +") " + choices[i] +"\n";
+		}
+		return choice;
+	}
+	
 	public void addToButton(JButton but, String txt) {
 		if(txt.length() >=45) {
 			txt = txt.substring(0,15) + "\n" + txt.substring(15,30) + "\n" + txt.substring(30, txt.length()-1);

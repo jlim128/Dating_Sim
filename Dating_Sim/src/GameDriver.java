@@ -22,7 +22,7 @@ public class GameDriver {
 	JButton result = new JButton("How we deemed your interation.");
 	JTextArea text = new JTextArea("After a long week of school, you stayed up thinking about life and its complexities. "
 			+ "\nWhen you arise, you have only one thought in your head, " + 
-			"\'It's MATING SEASON!\'");
+			"It's MATING SEASON!");
 	JPasswordField password;
 	JTextField field = new JTextField(20);
 	JTextArea area;
@@ -226,7 +226,7 @@ public class GameDriver {
 	
 	public void runOpening() {
 		
-		addToText("\n\n============PICK A LOCATION #NUMBER============");
+		addToText("\n\n============PICK A LOCATION NUMBER============");
 		for(int x =0; x < characters.size(); x++){
 			addToText("\n " + (x +1) + ") " + characters.get(x).getLocation());
 		}
@@ -340,14 +340,11 @@ public class GameDriver {
 		try {
 		if (characters.size() > 0) {
 			addToText(currentChar.getEnding());
-			result.setText("Continue your adventure to becoming the king of plebs?");
 			result.addActionListener(new ActionListener(){
 				public void actionPerformed(ActionEvent e) {
-					result.setText("How we deemed your interation.");
 					result.setVisible(false);
 					resetTxt();
 					
-					runOpening();
 				}
 			});
 		}

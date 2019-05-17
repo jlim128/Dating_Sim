@@ -1,0 +1,89 @@
+Library
+
+You have successfully gotten Aris interested!
+It looks like Aris just wasn't right for you.
+
+You walk into the library and see that a debate is going on.  Aris, who you know from a couple classes, is on stage.$You watch for a couple minutes as he absolutely destroys his opponent with his mad logic skills.$Aris walks off stage, very clearly pleased with his performance. You approach him and say:
+“Wow. Marvelous job!”
+Aris: “Thank you madam! You are too kind.”
+2
+“HIIIIIIIIIIII”
+Aris: “umm… Hi there.”
+-1
+“Sup dude.”
+Aris ignores you and keeps walking on. Despite this,
+-2
+Leave (pick another place)
+You realize that debate is stupid, so you decide to walk out.
+-1000
+
+You start to walk alongside him as you introduce yourself. You come to a point where you want to know more about him. What should you ask:
+“So what is your favorite color?”
+Aris: "Gold, it just has that fantastic sheen."
+1
+“What do you enjoy doing?”
+Aris: "Well you know, I believe that this pursuit of pleasure is the ultimate goal in life. Everything that we do, from work to talk to debate, is for this thing...$this happiness. Throughout life, we search ... explore for the things that bring us happiness. It may be defined, it may be ever changing.$As for me right now, it seems that I really enjoy debate. The art of rhetoric is empowering; it gives me the strength to manipulate and obtain any result I want.$Heh Heh...  It seems that I enjoy long tangents too, huh?
+2
+“So I heard you believe in geocentrism..."
+Aris: "pshh... uhh... no. No. I never believed such heresy. I'm always right."
+-2
+“Do you always win these debates?”
+Aris: “Yes, ALWAYS. ALWAYS!!!!”
+1
+
+As you’re walking alongside Aris, he suddenly turns and asks: "So before we continue, I must ask.  What do you believe a good life consists of?"
+"Umm... I don't know yet."
+Aris: "What do you mean? Surely you have some idea of what you want in life?" "Nope."
+-1
+"How can we have good lives if we are just characters written for a video game?"
+Aris: "Are you high right now? There is absolutely no way that is true."
+-2
+"I find that balance is the most important part of a good life."
+Aris: "Huh. That's exactly what I was thinking. Like there is some sort of golden mean in life."
+3
+"A good life for me would be giving back to the less fortunate in any way that I can."
+Aris: "Wow. How noble of you."
+1
+
+You notice that a guy is heading towards Aris. What needs to be done?
+Glare at the guy.
+Random Guy: "Ahhh! Stop glaring at me! You're too scary!"  He runs away.$Aris: "Why did you do that?" Aris runs after that guy.  Unfortunately, you don't run the two mile in track, so you can't keep up.
+-500
+"Como estassssss?"
+Random Guy & Aris: "Umm... What?" 
+-1
+"Hey Aris, who is that?"
+Aris: “Oh, it’s my mortal enemy, Dave. We actively chat a lot."
+1
+You wave to the guy and say, “Hail!”
+Random Guy: “Hail.”
+2
+
+Random Guy introduces himself as Dave.$He looks at you, then starts laughing hysterically and says: “Retired debater to women persuader?! :P (Yes, he says colon p)”
+“Wanna mess with me?”
+Aris: "A little much, but you got the idea."
+0
+“I hope you realize that I confronted Aris out of curiosity.”
+Aris raises an eyebrow, "Wow.. you’re acting a lot different..."
+-1
+Glare at him.
+Aris looks at you, "Hey, no need to be hostile to fellow debaters."
+-1
+You laugh and respond, “What do you mean?”
+Aris: "Ya, your conclusion about us is highly inaccurate, I would think you, Dave would come up with something a bit more creative."
+1
+
+You and Aris talk with Dave for a while, exchanging jokes and complaining about teachers. Both of them seem to really be warming up to you.$Aris: "It's getting late. I should get going." Before he goes, what should you do?
+"Hey I should get both your numbers so we can catch up tomorrow?"
+Dave: "Hwhy not?" Aris: "Ok." You trade numbers and head your separate ways.
+0
+Push Dave aside, and ask Aris for his number.
+Aris shifts his eyes away, "Do you respond like that to every male?" He cautiously gives you his number, then walks off.
+-2
+Throw your card at Aris and say, "Call me up for the next debate!"
+Aris catches it and waves his hand as he walks away, "I’ll hold you to it."
+2
+Slide your card into Dave’s pocket, then chase after Aris and holler "WAIT!"
+Dave: "What are you doing?" He walks away in disgust. From your yelling, Aris starts running too.  Unfortunately, you don't run the two mile in track, so you can't keep up.  You are left, all alone ... with no date.
+-500
+

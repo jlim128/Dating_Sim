@@ -1,0 +1,117 @@
+Milk Tea Bar
+
+Arthur somewhat likes you; close enough.
+Arthur went back to being Sad Boi. :(
+
+You walk into the milk tea bar and watch a Sad Boi order an extra extra large milk tea with 500% sugar. $He sits down and sighs, then chugs his milk tea.
+Get 500% sugar as well and sit next to him
+Sad Boi: "You too?"$"Yeah..."
+1
+Get 25% sugar and sit next to him
+The Sad Boi shifts slightly away from you
+-1
+Just sit down next to him
+The Sad Boi nods slightly
+0
+Leave (pick another place)
+You walk out as the Sad Boi continues to look sad. :(
+-10000
+
+Arthur: "Hey. My name's Arthur." He sighs. To get to know Arthur better, you decide to ask him a question. What do you ask?
+"What’s your favorite color?"
+Arthur: "Gray, like my soul" "Wow, how dramatic."
+1
+"Do you stir with a little spoon?"
+Arthur: "What kind of question is that?" You decide to just drop it.
+-1
+"So, what do you like?"
+"Well, I dabble in a bit of philosophy."
+1
+"I’m looking for a male for prom. Respond now."
+Arthur: "Uh... I don’t even know you." Arthur looks super uncomfortable, and after a couple seconds he gets up and leaves.
+-10000
+
+He sighs again and takes a giant gulp from his boba with 500% sugar. How do you respond? 
+"We’ve been talking for a bit now, do you have any plans after this?"
+Arthur: "Plans? Well all I know right now is that I will suffer."
+0
+"Why 500%?"
+Arthur: "Because life is suffering, only 500% can somewhat alleviate my pain for a moment"
+0
+"I’m interested in philosophy, can you tell me more about it?"
+Arthur: "Ah yes.  I’m currently reading a piece right now called “The Earth as Will and Representation”.$It’s about life and its inherent suffering, as well as much more."
+1
+"I come here often and this is my first time seeing you. Any recommendations for good drinks?"
+Arthur: "Get whatever you want ... either way you will suffer"
+0
+
+Arthur: "What do you believe about this world?"
+"The usual. God(or gods, or no gods just to be PG), salvation, that kind of stuff"
+Arthur: "Pshh... Like salvation actually exists..."
+-1
+“This world... is full of light...”
+Arthur: “What a bunch of B.S. (which stands for butterfly stallions of course)”
+-1
+"There is no room in hell for me."
+Arthur: "Umm... What? I have no idea what that even means."
+0
+"What is worth believing in?"
+Arthur: "OMG (not oh my god but omg, just omg), I know.  What a terrible world we live in."$His face brightens up for a second before slumping back down.
+2
+
+Arthur: "How do you plan to roam this world?"
+"I walk... a lonely road, the only one that I have ever known.”
+Arthur: "Don’t know where it goes, but it’s only me, and I walk alone"
+1
+"Alone. Dead. Maybe go to prom before that though."
+Arthur: "Same, but probably not the last part.”
+1
+"I don’t roam... I limp."
+Arthur: “Sounds on par with everyone else in this dreaded world.”
+1
+"I want to travel across the world and explore all the wonders of life!"
+Arthur: “Psh... What wonders?”
+-2
+
+You suddenly feel the urge to pee after drinking so much milk tea. What do you do?
+“Gotta take a shi shi break bro”.
+Arthur: “Sure, I’ll wait then.” You go to the bathroom and then come back.
+1
+“Can you hold? I need a moment.”
+Arthur: “Go right ahead.” You go to the bathroom and then come back.
+0
+Hold it in.
+Arthur starts to ramble about his life and how it’s a dirty world, but you can't focus on what he's saying because ... it's ... just ... too ... painful.$You sprint to the bathroom, but when you come back, Arthur is nowhere to be seen.
+-10000
+Say “Ah man... I have to go right now...”
+Arthur: “Eh... ok." He waits as you head to the bathroom.
+0
+
+Arthur starts to fidget, and starts staring off in the distance. Response?
+"You ok? What’s wrong?"
+Arthur: “Yeah… I’m fine.  Thanks for asking."
+1
+"I activate my trap card!"
+Arthur snaps back and then proceeds to stare at you, completely lost, “What are you even talking about?"$"I'm sorry. I just heard response and instinctively did that."
+-1
+Wave your hand in front of his face.
+Arthur: "Oh, sorry. Just lost myself for a moment there"
+1
+“That 500% kicking in?”
+Arthur says nothing, but starts fidgeting more.  
+0
+
+After what seems like hours of discussion in anime time (which is only minutes in Pacific Eastern Time), it’s time to make a decision.
+"Hey, you (Pikachu)! Give me your phone number!"
+Arthur sighs, "I guess. So aggressive though..." You exchange numbers, and after a bit more talking, you part ways.
+-1
+"It seems like you need someone to talk to every once in a while. Here's my number. I'm here for you if you need it."
+Arthur sighs, "Thanks, I guess..." You exchange numbers, and after a bit more talking, you part ways.
+1
+"I think I'll just go now."
+Arthur sighs, "OK, see ya ... I guess ..." You walk out and head home.
+-3
+"Here’s my card, I’ll call you sometime soon."
+Arthur sighs, "Hwhy not..." You exchange numbers, and after a bit more talking, you part ways.
+0
+
